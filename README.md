@@ -36,6 +36,6 @@ TODO
  - Physics: Position, velocity, and force calculations
  - Interaction: UserMouseEvent to pass mouse input into the environment
 
-![alt text](https://github.com/DaveMorra/Particle-Based-Fluid-Simulation/blob/main/img/image1.png)
+![alt text](img/image1.png)
 ![alt text](https://github.com/DaveMorra/Particle-Based-Fluid-Simulation/blob/main/img/image2.png)
 ![alt text](https://github.com/DaveMorra/Particle-Based-Fluid-Simulation/blob/main/img/image3.png)
