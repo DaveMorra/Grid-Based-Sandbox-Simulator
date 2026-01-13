@@ -37,5 +37,8 @@ TODO
  - Interaction: UserMouseEvent to pass mouse input into the environment
 
 ![alt text](img/image1.png)
-![alt text](https://github.com/DaveMorra/Particle-Based-Fluid-Simulation/blob/main/img/image2.png)
-![alt text](https://github.com/DaveMorra/Particle-Based-Fluid-Simulation/blob/main/img/image3.png)
+![alt text](img/image2.png)
+![alt text](img/image3.png)
+![alt text](img/image4.png)
+![alt text](img/image5.png)
+![alt text](img/image6.png)
