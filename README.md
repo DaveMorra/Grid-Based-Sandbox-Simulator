@@ -1,4 +1,4 @@
-# Particle-Based-Fluid-Simulation
+# Grid-Based-Sandbox-Simulator
 
 ## Table of Contents
 
@@ -9,7 +9,7 @@
 
 ## Overview
 
-This project is a Java particle-based fluid simulation that uses simple physics rules to create the appearance of fluid-like motion. Each particle is affected by forces such as gravity, collisions with walls, and interactions with nearby particles. The simulation runs in real time with rendering in a Swing window, providing smooth and visually appealing motion. Users can interact with the system using mouse input to attract or repel particles dynamically.
+TODO
 
 ## Requirements
 
@@ -29,7 +29,7 @@ Quickly build and run the project in any IDE that supports java (e.g., IntelliJ 
 Alternatively, you can compile and run it directly from the command line on any system with a built-in Java compiler.
 
 ## Technical Overview
-The simulation uses a particle-based physics engine to model fluid-like behavior by updating forces, velocities, and positions for each particle. Particles are organized in a spatial grid to efficiently calculate interactions only with nearby neighbors. Real-time rendering is handled with Swing, and users can interact with the simulation using mouse events to attract or repel particles. Below are three images that demonstrate the simulation in action, showing particle movement, fluid-like interactions, and user-driven effects through mouse input.
+TODO
 
  - Rendering: Swing (JFrame + JPanel)
  - Simulation Loop: Updates particles in real time at (Default: 120FPS)
