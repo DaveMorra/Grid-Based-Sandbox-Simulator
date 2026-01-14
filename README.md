@@ -9,7 +9,7 @@
 
 ## Overview
 
-TODO
+A Java-based 2D particle sandbox simulation that models gravity, fluid flow, and solid interactions. Users can use the mouse to place and modify particles like sand, water, and solid blocks, creating a dynamic grid-based environment.
 
 ## Requirements
 
