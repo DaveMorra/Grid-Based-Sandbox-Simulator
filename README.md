@@ -5,7 +5,7 @@
 - [Overview](#overview)
 - [Requirements](#requirements)
 - [Setup](#setup)
-- [Technical Overview](#technical-overview)
+- [Overview](#Overview)
 
 ## Overview
 
@@ -44,13 +44,7 @@ Then, Run the main program:
 java MainSimulator.java
 ```
 
-## Technical Overview
-TODO
-
- - Rendering: Swing (JFrame + JPanel)
- - Simulation Loop: Updates particles in real time at (Max FPS: 120)
- - Physics: Calculate particle movement
- - Interaction: UserMouseEvent to pass mouse input into the environment
+## Overview
 
 Sand is being generated and falls downward.
 ![alt text](img/image1.png)
