@@ -24,11 +24,11 @@ Before running this project, ensure that you meet the following requirements:
 ### Step 1: Clone the Repository
 First, clone or download this repository to your local machine.
 ```
-git clone https://github.com/DaveMorra/Particle-Based-Fluid-Simulation.git
+git clone https://github.com/DaveMorra/Grid-Based-Sandbox-Simulator.git
 ```
 Then, navigate to the source directory:
 ```
-cd Particle-Based-Fluid-Simulation/src
+cd Grid-Based-Sandbox-Simulator/src
 ```
 ### Step 2: Compile and Run
 Quickly build and run the project in any IDE that supports java (e.g., IntelliJ IDEA, Eclipse, or javac).
@@ -41,15 +41,15 @@ javac Models/Particle.java Models/UserMouseEvent.java JFrameWindow.java Particle
 
 Then, Run the main program:
 ```
-java FluidSimulator.java
+java MainSimulator.java
 ```
 
 ## Technical Overview
 TODO
 
  - Rendering: Swing (JFrame + JPanel)
- - Simulation Loop: Updates particles in real time at (Default: 120FPS)
- - Physics: Position, velocity, and force calculations
+ - Simulation Loop: Updates particles in real time at (Max FPS: 120)
+ - Physics: Calculate particle movement
  - Interaction: UserMouseEvent to pass mouse input into the environment
 
 Sand is being generated and falls downward.
